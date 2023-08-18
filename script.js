@@ -17,12 +17,11 @@ noButton.addEventListener("mouseover", () => {
 noButton.addEventListener("click", () => {
     resultContainer.style.display = "block";
     resultText.textContent = "No, YOU ARE NIGGA";
-    resultImage.src = "Fv6X54uaIAM_11J.jpg
-"; // Ganti dengan URL gambar No
+    resultImage.src = "Fv6X54uaIAM_11J.jpg"; // Ganti dengan URL gambar No
 });
 
 yesButton.addEventListener("click", () => {
     resultContainer.style.display = "block";
     resultText.textContent = "Nice, YOU NIGGA, NOW STOP SAY STUPID NIGGA";
-    resultImage.src = "yes_result_image.jpg"; // Ganti dengan URL gambar Yes
+    resultImage.src = "6a1.jpg"; // Ganti dengan URL gambar Yes
 });
